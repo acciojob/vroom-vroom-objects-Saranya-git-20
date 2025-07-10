@@ -1,5 +1,7 @@
 // Complete the js code
-function Car(make, model) {}
+function Car(make, model) {
+	console.log("jiiiii")
+}
 
 function SportsCar(make, model, topSpeed) {}
 
